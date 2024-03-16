@@ -1,1 +1,6 @@
-Hola mundo!!!
+Hola mundo inicialmente en github!!!
+
+Este es archivo modificado,
+ 
+Creado: en github 
+Desarrollado: en git
